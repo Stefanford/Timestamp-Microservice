@@ -1,0 +1,28 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "free code camp project timestamp-microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Savic",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "expres": "0.0.5",
+    "express": "^4.16.3",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefanford/Timestamp-Microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stefanford/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/Stefanford/Timestamp-Microservice#readme"
+}
